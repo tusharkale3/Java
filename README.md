@@ -1,7 +1,7 @@
-##Java Lab Exam Practice Questions
+## Java  Practice Questions
 This repository contains solutions to Java lab exam practice questions covering various topics such as task management, cricket player management, pet store application, employee management, and product item management. Each question is accompanied by its solution implemented in Java.
 
-##Contents
+## Contents
 The repository includes solutions to the following practice questions:
 
 Task Manager: Create a menu-driven application to manage day-to-day tasks.
@@ -12,7 +12,7 @@ Product Item Management: Manage product items and perform operations such as add
 Structure
 The repository is structured as follows:
 
-##bash
+## bash
 Copy code
 - /task_manager
   - Contains Java source files for the Task Manager application.
